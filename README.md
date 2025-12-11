@@ -15,6 +15,7 @@ A critical challenge in this dataset was handling missing values in the target v
 
 * **`GroupX6(A5)_Task1_report.pdf`**: The detailed analytical report containing exploratory data analysis, missing data diagnostics, and model interpretation.
 * **`GroupX6(A5)_Task1_code.R`**: The R script used for data processing, visualization, statistical testing, and multiple imputation (MICE).
+* **`a5.csv`**: The raw dataset used for the analysis, containing 9,947 observations of bank marketing campaigns.
 
 ## 🛠 Methodology
 
